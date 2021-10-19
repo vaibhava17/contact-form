@@ -1,6 +1,4 @@
-// import $ from 'jquery';
 import React, { Component } from 'react';
-// window.$ = window.jQuery = require('jquery')
 
 class App extends Component {
     constructor(props) {
